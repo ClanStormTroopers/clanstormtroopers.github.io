@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  
+  <url>
+    <loc>http://clanstormtroopers.com/blog/2014/10/17/test/</loc>
+    
+    <lastmod>2014-10-17T02:46:11+02:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://clanstormtroopers.com/blog/2014/04/22/a-sample-post/</loc>
+    
+    <lastmod>2014-04-22T14:40:00+02:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  
+  <url>
+    <loc>http://clanstormtroopers.com/404.html</loc>
+    <lastmod>2014-10-17T03:51:04+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://clanstormtroopers.com/archives/</loc>
+    <lastmod>2014-10-17T03:51:04+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://clanstormtroopers.com/blog/archives/</loc>
+    <lastmod>2014-10-17T03:51:04+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://clanstormtroopers.com/blog/</loc>
+    <lastmod>2014-10-17T03:51:04+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://clanstormtroopers.com/</loc>
+    <lastmod>2014-10-17T03:51:04+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://clanstormtroopers.com/assets/font-awesome/docs/index.html</loc>
+    <lastmod>2014-10-17T03:36:20Z</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+</urlset>
