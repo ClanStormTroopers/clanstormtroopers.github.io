@@ -4,7 +4,7 @@
   <title><![CDATA[Clan StormTroopers]]></title>
   <link href="http://clanstormtroopers.com/atom.xml" rel="self"/>
   <link href="http://clanstormtroopers.com/"/>
-  <updated>2014-10-17T03:51:04+02:00</updated>
+  <updated>2014-10-17T05:16:10+02:00</updated>
   <id>http://clanstormtroopers.com/</id>
   <author>
     <name><![CDATA[Neko250]]></name>
@@ -12,21 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Test]]></title>
-    <link href="http://clanstormtroopers.com/blog/2014/10/17/test/"/>
-    <updated>2014-10-17T02:46:11+02:00</updated>
-    <id>http://clanstormtroopers.com/blog/2014/10/17/test</id>
-    <content type="html"><![CDATA[<h1>Hello World</h1>
-
-<hr />
-
-<blockquote><p>This is a random quote !</p></blockquote>
-
-<hr />
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[This is a sample post]]></title>
