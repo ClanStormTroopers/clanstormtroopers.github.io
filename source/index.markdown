@@ -5,7 +5,7 @@ sharing: true
 
 ![](/images/head2.png)
 
-### ¡Bienvenido a la página oficial del Clan StormTroopers!
+### <i class="fa fa-angellist"></i> ¡Bienvenido a la página oficial del Clan StormTroopers! <i class="fa fa-angellist"></i>
 
 ---
 
