@@ -13,49 +13,98 @@
   
   <url>
     <loc>http://clanstormtroopers.com/404.html</loc>
-    <lastmod>2014-10-17T12:20:27+02:00</lastmod>
+    <lastmod>2014-10-17T19:29:45+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://clanstormtroopers.com/archives/</loc>
-    <lastmod>2014-10-17T12:20:27+02:00</lastmod>
+    <lastmod>2014-10-17T19:29:45+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://clanstormtroopers.com/blog/archives/</loc>
-    <lastmod>2014-10-17T12:20:27+02:00</lastmod>
+    <lastmod>2014-10-17T19:29:45+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://clanstormtroopers.com/blog/</loc>
-    <lastmod>2014-10-17T12:20:27+02:00</lastmod>
+    <lastmod>2014-10-17T19:29:45+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>http://clanstormtroopers.com/guias/edificios_defensa/canones/</loc>
-    <lastmod>2014-10-17T12:20:27+02:00</lastmod>
+    <loc>http://clanstormtroopers.com/guias/edificios/ataque/</loc>
+    <lastmod>2014-10-17T19:29:45+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://clanstormtroopers.com/guias/edificios/defensa/</loc>
+    <lastmod>2014-10-17T19:29:45+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://clanstormtroopers.com/guias/edificios/otros/ayuntamiento/</loc>
+    <lastmod>2014-10-17T19:29:45+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://clanstormtroopers.com/guias/edificios/otros/castillo/</loc>
+    <lastmod>2014-10-17T19:29:45+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://clanstormtroopers.com/guias/edificios/otros/decoraciones/</loc>
+    <lastmod>2014-10-17T19:29:45+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://clanstormtroopers.com/guias/edificios/otros/</loc>
+    <lastmod>2014-10-17T19:29:45+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://clanstormtroopers.com/guias/edificios/otros/obtaculos/</loc>
+    <lastmod>2014-10-17T19:29:45+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://clanstormtroopers.com/guias/edificios/recursos/</loc>
+    <lastmod>2014-10-17T19:29:45+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://clanstormtroopers.com/guias/</loc>
-    <lastmod>2014-10-17T12:20:27+02:00</lastmod>
+    <lastmod>2014-10-17T19:29:45+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://clanstormtroopers.com/</loc>
-    <lastmod>2014-10-17T12:20:27+02:00</lastmod>
+    <lastmod>2014-10-17T19:29:45+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
