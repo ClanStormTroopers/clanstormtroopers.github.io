@@ -1,0 +1,10 @@
+---
+layout: page
+title: Whoops, no hemos encontrado esa página
+footer: true
+---
+
+__Sea lo que fuera lo que buscabas, no existe o se ha eliminado.
+Si tienes cualquier duda o problema no dudes en contactar con nosotros, en el foro encontrarás cómo hacerlo.__
+
+[__Volver al Inicio__](/).
