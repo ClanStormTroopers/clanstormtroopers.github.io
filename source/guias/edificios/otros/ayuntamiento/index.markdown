@@ -43,10 +43,10 @@ footer: true
 ---
 
 <center>
-<div style="position: relative; margin-top: 10px; margin-bottom:10px; border:0px ridge Green; padding: 10px; font-size: 100%; -moz-border-radius: 15px; border-radius:15px; -webkit-border-radius:15px; border-color: silver; color:black; background-color: gainsboro;">
+<div style="overflow:auto; position: relative; margin-top: 10px; margin-bottom:10px; border:0px ridge Green; padding: 10px; font-size: 100%; -moz-border-radius: 15px; border-radius:15px; -webkit-border-radius:15px; border-color: silver; color:black;">
 <table border="1" cellpadding="1" cellspacing="1" class="article-table" style="text-align:center; display: inline-block;">
 <tr>
-<th scope="row" style="background: #eee; width: 40%;"> Nivel de Ayto
+<th scope="row" style="background: #eee; width: 40%;">Nivel de Ayto
 </th><th scope="col" style="width: 6%;">1
 </th><th scope="col" style="width: 6%;">2
 </th><th scope="col" style="width: 6%;">3
@@ -59,33 +59,33 @@ footer: true
 </th><th scope="col" style="width: 6%;">10
 </th></tr> 
 <tr>
-<th scope="row" style="background: #eee;"> Cantidad Disponible
+<th scope="row" style="background: #eee;">Cantidad Disponible
 </th><td style="background: lemonchiffon; font-weight: bold;"> 1
-</td><td style=""> 1
-</td><td style=""> 1
-</td><td style=""> 1
-</td><td style=""> 1
-</td><td style=""> 1
-</td><td style=""> 1
-</td><td style=""> 1
-</td><td style=""> 1
-</td><td style=""> 1
+</td><td style="">1
+</td><td style="">1
+</td><td style="">1
+</td><td style="">1
+</td><td style="">1
+</td><td style="">1
+</td><td style="">1
+</td><td style="">1
+</td><td style="">1
 </td></tr></table>
 <table border="1" cellpadding="1" cellspacing="1" class="article-table" style="text-align:center; display: inline-block;">
 <tr>
-<th scope="row" style="background: #eee;"> Tamaño
+<th scope="row" style="background: #eee;">Tamaño
 </th></tr>
 <tr>
-<td style=""> 4x4
+<td style="">4x4
 </td></tr></table><br><br>
 <table border="1" cellpadding="1" cellspacing="1" class="wikitable" style="width: 100%; text-align: center;">
 <tr>
 <th scope="col">Nivel
 </th><th scope="col">Vida
-</th><th scope="col">Precio
+</th><th scope="col">Precio <img src="http://img3.wikia.nocookie.net/__cb20121017030644/clashofclans/images/thumb/1/10/Gold.png/20px-Gold.png" 	 alt="Gold"  	class="" 	 	data-image-key="Gold.png" 	data-image-name="Gold.png" 	 	 width="20"  	 height="21"  	 	 	 	>
 </th><th scope="col">Tiempo
-</th><th scope="col">Experiencia
-</th><th scope="col">Número Máximo<br />de Edificios
+</th><th scope="col">Experiencia <img src="http://img1.wikia.nocookie.net/__cb20130327113619/clashofclans/images/thumb/1/1a/XP.png/22px-XP.png" 	 alt="XP"  	class="" 	 	data-image-key="XP.png" 	data-image-name="XP.png" 	 	 width="22"  	 height="20"  	 	 	 	>
+</th><th scope="col">Número Máximo<br/>de Edificios
 </th></tr>
 <tr>
 <td> 1
