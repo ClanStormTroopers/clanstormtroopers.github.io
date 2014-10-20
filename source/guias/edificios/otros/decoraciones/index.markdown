@@ -9,9 +9,10 @@ footer: true
 ->![](http://img3.wikia.nocookie.net/__cb20121016025944/clashofclans/images/thumb/9/95/Decorations.png/200px-Decorations.png)<-
 
 ---
+
 <center>
 <div style="overflow:auto; margin-top: 10px; margin-bottom:10px; border:0px ridge Green; padding: 10px; font-size: 100%; -moz-border-radius: 15px; border-radius:15px; -webkit-border-radius:15px; border-color: silver; color:black;">
-<table border="1" cellpadding="1" cellspacing="1" class="article-table" style="width: 500px;">
+<table border="1" cellpadding="1" cellspacing="1" class="article-table" style="width: 100%;">
 <tr>
 <th scope="col" style="text-align: center;">Decoración
 </th><th scope="col" style="text-align: center;">Imagen
@@ -21,7 +22,7 @@ footer: true
 </th></tr>
 <tr>
 <td style="text-align: center;">Antorcha
-</td><td>
+</td><td style="text-align: center;">
 <img src="http://img3.wikia.nocookie.net/__cb20130514020007/clashofclans/images/thumb/3/37/Torch_new.png/100px-Torch_new.png" 	 alt="Torch new"  	class="" 	 	data-image-key="Torch_new.png" 	data-image-name="Torch new.png" 	 	 width="100"  	 height="133"  	 	 	 	>
 </td><td style="white-space: nowrap; text-align: center;">500 <img src="http://img4.wikia.nocookie.net/__cb20121017030342/clashofclans/images/thumb/4/43/Elixir.png/18px-Elixir.png" 	 alt="Elixir"  	class="" 	 	data-image-key="Elixir.png" 	data-image-name="Elixir.png" 	 	 width="18"  	 height="20"  	 	 	 	>
 </td><td style="text-align: center;">4
