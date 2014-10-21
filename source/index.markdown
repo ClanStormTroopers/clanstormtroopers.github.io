@@ -3,18 +3,32 @@ layout: page
 sharing: true
 ---
 
-![](/images/head2.png)
-
-### <i class="fa fa-angellist"></i> ¡Bienvenido a la página oficial del Clan StormTroopers! <i class="fa fa-angellist"></i>
-
----
-
-<a href="/guias" class="btn btn-success btn-large"><i class="fa fa-book"></i> Guías</a> <i class="fa fa-arrow-right"></i> __Si quieres acceder a las guías, entra aquí.__<br>
-
-<a href="http://foro.clanstormtroopers.com" class="btn btn-info btn-large"><i class="fa fa-group"></i> Foro</a> <i class="fa fa-arrow-right"></i> __Si quieres acceder al foro y discutir sobre CoC con nosotros, entra aquí.__
+<center>
+<img src="/images/head.png"><br>
+<h3><i class="fa fa-angellist"></i> ¡Bienvenido a la página oficial del Clan StormTroopers! <i class="fa fa-angellist"></i></h3>
+</center>
 
 ---
 
-![](/images/coc_header.jpg)
+<center>
+<table border="0" cellpadding="3" cellspacing="1" style="text-align: center; width: 50%;">
+<tr>
+<td><a href="/blog" class="btn btn-warning btn-large"><i class="fa fa-archive"></i> Blog</a></td>
+<td><a href="/guias" class="btn btn-success btn-large"><i class="fa fa-book"></i> Guías</a></td>
+<td><a href="http://foro.clanstormtroopers.com" class="btn btn-info btn-large"><i class="fa fa-group"></i> Foro</a></td>
+</tr>
+</table>
+</center>
+
+---
+
+->![](/images/troops.png)<-
+
+---
+
+<center>
+<h3>Estado de los Servicios</h3><br>
+<img src="http://img.shields.io/badge/foro-operativo-green.svg"> <img src="http://img.shields.io/badge/guias-incompleto-red.svg"> <img src="http://img.shields.io/badge/blog-operativo-green.svg">
+</center>
 
 ---
