@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Clan StormTroopers]]></title>
-  <link href="http://clanstormtroopers.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: noticias | Clan StormTroopers]]></title>
+  <link href="http://clanstormtroopers.com/blog/categories/noticias/atom.xml" rel="self"/>
   <link href="http://clanstormtroopers.com/"/>
   <updated>2014-10-22T00:10:51+02:00</updated>
   <id>http://clanstormtroopers.com/</id>
@@ -185,46 +185,6 @@ Las trampas de esqueletos se activan cuando una tropa se acerca a ellas y suelta
 <li>Mostrar el mayor número de trofeos obtenidos.</li>
 <li>Versión de Android.</li>
 </ul>
-
-
-<hr />
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Inauguración]]></title>
-    <link href="http://clanstormtroopers.com/blog/2014/10/21/bienvenida/"/>
-    <updated>2014-10-21T21:59:24+02:00</updated>
-    <id>http://clanstormtroopers.com/blog/2014/10/21/bienvenida</id>
-    <content type="html"><![CDATA[<!-- more -->
-
-
-<p>Nos alegramos de haber inaugurado recientemente la página web del clan.<br/>
-Esperamos que en poco tiempo, esto se haya convertido en un vaivén de miembros estrategas, dilucidando cómo llegar a ser uno de los mejores clanes.</p>
-
-<p>¡Pero éso solo lo podremos conseguir contigo!<br/>
-Únete a nosotros en nuestra cruzada y triunfemos todos juntos en las guerras.<br/>
-Llegaremos a la cima de la pirámide.</p>
-
-<hr />
-
-<p>Por cierto, la página web es open source.<br/>
-Nuestros desarrolladores están trabajando duro para conseguir que esté a tope para vosotros.<br/>
-Puedes ver el código fuente de la página en el repositorio oficial.</p>
-
-<center><a href="https://github.com/ClanStormTroopers/clanstormtroopers.github.io" class="btn btn-large"><img src="http://yamitenshi.net/resources/images/github_button.png" width="200"></a></center>
-
-
-<p><br></p>
-
-<p style="text-align:center;"><img src="http://clanstormtroopers.com/images/cover.jpg" alt="" /></p>
-
-<hr />
-
-<center>
-<h4>Estado de los Servicios</h4><br>
-<img src="http://img.shields.io/badge/foro-operativo-green.svg"> <img src="http://img.shields.io/badge/guias-incompleto-red.svg"> <img src="http://img.shields.io/badge/blog-operativo-green.svg">
-</center>
 
 
 <hr />
