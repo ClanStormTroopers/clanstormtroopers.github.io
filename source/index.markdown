@@ -10,18 +10,6 @@ sharing: true
 
 ---
 
-<center>
-<table border="0" cellpadding="3" cellspacing="1" style="text-align: center; width: 50%;">
-<tr>
-<td><a href="/blog" class="btn btn-warning btn-large"><i class="fa fa-archive"></i> Blog</a></td>
-<td><a href="/guias" class="btn btn-success btn-large"><i class="fa fa-book"></i> Guías</a></td>
-<td><a href="http://foro.clanstormtroopers.com" class="btn btn-info btn-large"><i class="fa fa-group"></i> Foro</a></td>
-</tr>
-</table>
-</center>
-
----
-
 ->![](/images/troops.png)<-
 
 ---

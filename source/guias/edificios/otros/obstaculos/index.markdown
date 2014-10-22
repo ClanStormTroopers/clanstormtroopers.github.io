@@ -87,7 +87,7 @@ footer: true
 </td><td style="text-align: center; white-space: nowrap;">5%
 </td></tr>
 <tr>
-<td style="text-align: center; white-space: nowrap;">Gem Box
+<td style="text-align: center; white-space: nowrap;">Caja de Gemas
 </td><td style="text-align: center; white-space: nowrap;">2x2
 </td><td style="text-align: center; white-space: nowrap;">30s
 </td><td style="text-align: center; white-space: nowrap;">5
@@ -169,7 +169,7 @@ footer: true
 </td><td style="text-align: center; white-space: nowrap;">Cuando muere una unidad de elixir oscuro
 </td></tr></table><br><br>
 
-<h3>Gallery</h3><hr>
+<h3>Galería</h3><hr>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border:none;margin:0px auto;}
