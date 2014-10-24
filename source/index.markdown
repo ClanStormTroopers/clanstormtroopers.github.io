@@ -3,20 +3,15 @@ layout: page
 sharing: true
 ---
 
-<audio autoplay>
-  <source src="audio/load.ogg" type="audio/ogg">
-</audio>
-
+<div class="welcome">
 <center>
 <img src="/images/head.png"><br>
 <h3><i class="fa fa-angellist"></i> ¡Bienvenido a la página oficial del Clan StormTroopers! <i class="fa fa-angellist"></i></h3>
 </center>
-
----
-
-->![](/images/fansite.png =300x)<-
-
-->![](/images/troops.png)<-
+<hr>
+<center><img src="/images/fansite.png" width="300"></center><br>
+<center><img src="/images/troops.png"></center>
+</div>
 
 ---
 

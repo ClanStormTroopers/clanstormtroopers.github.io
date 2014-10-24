@@ -5,6 +5,8 @@
         <td><a href="{{ root_url }}/blog" class="btn btn-warning" style="color: #ffffff"><i class="fa fa-archive"></i> Blog</a></td>
         <td><a href="{{ root_url }}/guias" class="btn btn-success" style="color: #ffffff"><i class="fa fa-book"></i> Guías</a></td>
         <td><a href="http://foro.clanstormtroopers.com/" class="btn btn-info" style="color: #ffffff"><i class="fa fa-group"></i> Foro</a></td>
+        {% if site.subscription %}
         <td><a href="{{ site.subscribe_rss }}" class="btn" style="color: #000000"><i class="fa fa-rss"></i> Suscribirse</a></td>
+        {% endif %}
     </tr>
 </table>
